@@ -1,4 +1,4 @@
-# FinTrade Internal Project: `[INSERT REPOSITORY NAME HERE]`
+# FinTrade Internal Project: `[tradecore-settlement-engine]`
 
 This repository is a public placeholder for an internal FinTrade Corp project.
 
